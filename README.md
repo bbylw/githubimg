@@ -1,7 +1,7 @@
 # GitHub Image Proxy Worker
 
 一个基于 Cloudflare Workers 的 GitHub 图床代理服务，支持 PicGo 配置，可用于搭建私有图床。
-
+![](https://cdn.jsdelivr.net/gh/bbylw/PicGo@master/20241220214822938.png)
 > 本项目基于 [@fscarmen](https://www.fscarmen.com/2024/10/blog-post.html) 的方案实现，增加了前端展示页面。原作者提供了更丰富的功能说明和[视频教程](https://youtu.be/eRqIpeeo9SA)，建议参考学习。
 
 ## 🌟 特性
